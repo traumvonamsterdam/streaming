@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is my first stream",
+      "id": 1,
+      "userId": "104773840267343216144"
+    },
+    {
+      "title": "New stream",
+      "description": "Here is another stream!!!",
+      "id": 2,
+      "userId": "104773840267343216144"
+    },
+    {
+      "title": "A wild emu",
+      "description": "Here's a stream of an emu running around in the Australian wilderness",
+      "userId": "104773840267343216144",
+      "id": 3
+    }
+  ]
+}
